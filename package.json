@@ -1,0 +1,9 @@
+{
+  "name": "film-radar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Film Radar — oportunidades audiovisuales con Gemini",
+  "engines": {
+    "node": ">=20"
+  }
+}
