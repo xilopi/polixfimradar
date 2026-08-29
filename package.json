@@ -1,9 +1,0 @@
-{
-  "name": "film-radar",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Film Radar - radar de trabajo audiovisual",
-  "engines": {
-    "node": ">=18"
-  }
-}
