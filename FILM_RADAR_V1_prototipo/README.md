@@ -1,6 +1,6 @@
 # FILM RADAR V1 — Prototipo
 
-Este prototipo es una primera versión visual y funcional para validar el concepto.
+Este prototipo es una primera versión visual y funcional para validar el concepto. 
 
 ## Incluye
 - Dashboard
